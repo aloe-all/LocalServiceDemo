@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ServiceTest</string>
+    <string name="local_service_start">本地服务启动</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
